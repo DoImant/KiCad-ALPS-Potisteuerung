@@ -9,7 +9,9 @@ control. This circuit can be used to control the volume of an amplifier.
 
 ## The PCB
 
-![PCB](https://github.com/DoImant/Stuff/blob/main/ALPS-Drehpoti/PCB-ALPS-Potisteuerung.png)
+![PCB](https://github.com/DoImant/Stuff/blob/main/ALPS-Drehpoti/PCB-ALPS-Potisteuerung.png?raw=true)
+
+![Picture](https://github.com/DoImant/Stuff/blob/main/ALPS-Drehpoti/PCB-ALPS-Potisteuerung.jpg?raw=true)
 
 ## Software
 
